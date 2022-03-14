@@ -1,10 +1,10 @@
-# AEON Project Website
-Copyright (c) 2014-2022, AEON Project
+# BITRUBCOIN Project Website
+Copyright (c) 2014-2022, BITRUBCOIN Project
 
-url: https://www.aeon.cash
+url: https://www.bitrubcoin.cash
 
 ## Site Details:
-AEON.cash is powered by Jekyll and hosted on Github. Changes made to this repository will reflect on to the website within moments of being committed.
+BITRUBCOIN.cash is powered by Jekyll and hosted on Github. Changes made to this repository will reflect on to the website within moments of being committed.
 
 ### Adding a translation:
 The following files will be altered in some way during translation:
@@ -24,16 +24,16 @@ This is all that is required for this file.
 All text for any page and every language is located in _config.yml. Each section of the website is sectioned in this file. An example is seen below.
 ```
 title:
-  en: "AEON - Mobile-friendly private digital currency" #you should base your translation off of this line.
-  es: "AEON - Moneda Privada Digital Amigable para Móviles"
+  en: "BITRUBCOIN - Mobile-friendly private digital currency" #you should base your translation off of this line.
+  es: "BITRUBCOIN - Moneda Privada Digital Amigable para Móviles"
 ```
 
 If you were to add in another language, please use a two letter language code (three letters if there is a conflict between language codes). 
 ```
 title:
-  en: "AEON - Mobile-friendly private digital currency" #you should base your translation off of this line.
-  es: "AEON - Moneda Privada Digital Amigable para Móviles"
-  pl: "AEON - Prywatna cyfrowa waluta przyjazna urządzeniom mobilnym"
+  en: "BITRUBCOIN - Mobile-friendly private digital currency" #you should base your translation off of this line.
+  es: "BITRUBCOIN - Moneda Privada Digital Amigable para Móviles"
+  pl: "BITRUBCOIN - Prywatna cyfrowa waluta przyjazna urządzeniom mobilnym"
 ```
 Be sure to add your copied index file to the following section. You do not have to include the .html file extension.
 ```
@@ -78,13 +78,13 @@ After completing the above, you should be ready to submit a Pull Request to be r
 
 ### Multi-language credits:
 * [@camthegeek](https://github.com/camthegeek) - new site structure + introduction of multi-language into existing theme
-* [@aeon1234](https://github.com/aeon1234) - simplifying multi-language structure.
+* [@bitrubcoin1234](https://github.com/bitrubcoin1234) - simplifying multi-language structure.
 * [@BigslimVdub](https://github.com/bigslimvdub) - Community translations project organizer
 
 ## Reaching out
 
-In need of help with editing the AEON project website? We encourage you to open an issue. However, if you are looking to receive assistance quickly, try one of the alternate solutions below.
-* Reddit: https://reddit.com/r/Aeon
-* IRC: https://webchat.freenode.net/?channels=%23aeon
+In need of help with editing the BITRUBCOIN project website? We encourage you to open an issue. However, if you are looking to receive assistance quickly, try one of the alternate solutions below.
+* Reddit: https://reddit.com/r/BitRubCoin
+* IRC: https://webchat.freenode.net/?channels=%23bitrubcoin
 * Discord: https://discord.gg/TM8mEsx
-* Telegram: https://telegram.me/AEONgroup
+* Telegram: https://telegram.me/BITRUBCOINgroup
