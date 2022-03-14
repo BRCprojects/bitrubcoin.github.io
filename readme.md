@@ -1,5 +1,5 @@
 # BITRUBCOIN Project Website
-Copyright (c) 2014-2022, BITRUBCOIN Project
+Copyright (c) 2014-2019, BITRUBCOIN Project
 
 url: https://www.bitrubcoin.cash
 
