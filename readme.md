@@ -87,4 +87,4 @@ In need of help with editing the BITRUBCOIN project website? We encourage you to
 * Reddit: https://reddit.com/r/BitRubCoin
 * IRC: https://webchat.freenode.net/?channels=%23bitrubcoin
 * Discord: https://discord.gg/TM8mEsx
-* Telegram: https://telegram.me/BITRUBCOINgroup
+* Telegram: https://telegram.me/BITRUBCOIN
