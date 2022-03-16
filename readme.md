@@ -78,7 +78,7 @@ After completing the above, you should be ready to submit a Pull Request to be r
 
 ### Multi-language credits:
 * [@camthegeek](https://github.com/camthegeek) - new site structure + introduction of multi-language into existing theme
-* [@bitrubcoin1234](https://github.com/bitrubcoin1234) - simplifying multi-language structure.
+* [@bitrubcoin](https://github.com/bitrubcoin) - simplifying multi-language structure.
 * [@BigslimVdub](https://github.com/bigslimvdub) - Community translations project organizer
 
 ## Reaching out
